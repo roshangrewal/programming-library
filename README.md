@@ -1,4 +1,4 @@
-<h1>Programming Library: OpenSource Resources for Software Development</h1>
+<h1>Programming Library: Resources for Software Development</h1>
 <p>This library is a curated collection of sources of information and similar resources, selected by educator, experts, learners and made accessible to programmer community for reference. Which include resources for <b>programming</b>, <b>web development</b>, <b>computer science</b> and manymore. </p>
 
 <small>About This Repo: This library is a curated collection of sources of information and similar resources, selected by educator, experts, learners and made accessible to soal community for reference. </small>
