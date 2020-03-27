@@ -1,4 +1,4 @@
-<h1>Programming Library : </h1>
+<h1>Programming Library: OpenSource Resources</h1>
 <p>A collection of the best resources for programming, web development, computer science and more.</p>
 
 <small>About This Repo: This library is a curated collection of sources of information and similar resources, selected by educator, experts, learners and made accessible to soal community for reference. </small>
@@ -6,13 +6,12 @@
 <small>Disclaimer: This is licenced under <b>The GNU General Public License</b> is a series of widely used free software licenses that guarantee end users the freedom to run, study, share, and modify the software.
   <i>All are free resources and all resources are available over the web freely. Nothing is paid or sponsered here.</i></small>
 
-<small>Open for contributor from the world.</small>
+<small>Open for contributor from the world. Anyone who find something good and want to contribute can make pull request. </small>
   
   ![Twitter Follow](https://img.shields.io/twitter/follow/iiamrg?label=Follow&style=social) 
 
+<hr>
 
-<details open>
-  <summary>Sites</summary>
   <details open>
     <summary>Sites - Coding Platforms</summary>
     <ol>
@@ -36,7 +35,7 @@
       </li>
     </ol>
   </details>
-  
+  <hr>
 <details open>
     <summary>Sites - Algorithm Platforms</summary>
     <ol>
@@ -89,7 +88,7 @@
       </li>
     </ol>
   </details>
-
+<hr>
 <details open>
   <summary>Courses</summary>
   <ol>
@@ -100,7 +99,7 @@
     </li>
   </ol>
 </details>
-
+<hr>
 <details open>
   <summary>Text Editors</summary>
   <ol>
@@ -114,7 +113,7 @@
     </li>
   </ol>
 </details>
-  
+  <hr>
 <details open>
   <summary>Blogs</summary>
   <ol>
@@ -129,7 +128,7 @@
     </li>
   </ol>
 </details>
-
+<hr>
 <details open>
   <summary>VSCode Extensions</summary>
   <ol>
@@ -207,7 +206,7 @@
     </li>
   </ol>
 </details>
-
+<hr>
 <details open>
     <summary>Community - Organization & Inclusion</summary>
     <ol>
@@ -230,7 +229,7 @@
       </li>
     </ol>
   </details>
-  
+  <hr>
   <details open>
   <summary>Chrome Extensions</summary>
   <ol>
@@ -275,7 +274,7 @@
     </li>
   </ol>
 </details>
-
+<hr>
 <details open>
   <summary>Repos</summary>
   <ol>
@@ -284,3 +283,4 @@
     </li>
   </ol>
 </details>
+<hr>
