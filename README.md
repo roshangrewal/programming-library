@@ -1,7 +1,7 @@
 <h1>Programming Library: Resources for Software Development</h1>
 <p>This library is a curated collection of sources of information and similar resources, selected by educator, experts, learners and made accessible to programmer community for reference. Which include resources for <b>programming</b>, <b>web development</b>, <b>computer science</b> and manymore. </p>
 
-<small>About This Repo: This library is a curated collection of sources of information and similar resources, selected by educator, experts, learners and made accessible to soal community for reference. </small>
+<small>About This Repo: This library is a curated collection of sources of information and similar resources, selected by educator, experts, learners and made accessible to programmer community for reference. </small>
 
 <small>Disclaimer: This is licenced under <b>The GNU General Public License</b> is a series of widely used free software licenses that guarantee end users the freedom to run, study, share, and modify the software.
   <i>All are free resources and all resources are available over the web freely. Nothing is paid or sponsered here.</i></small>
