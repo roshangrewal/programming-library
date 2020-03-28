@@ -7,7 +7,7 @@
 
 <small><i>Open for contributor from the world. Anyone who find something good and want to contribute can make pull request.</i> </small>
   
-  ![Twitter Follow](https://img.shields.io/twitter/follow/iiamrg?label=Follow&style=social) 
+  ![GitHub contributors](https://img.shields.io/github/contributors/roshangrewal/programming-library) 
 
 <hr>
 
