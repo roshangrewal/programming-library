@@ -35,6 +35,38 @@
     </ol>
   </details>
   <hr>
+  
+  <details open>
+    <summary>Sites - Style & Component Libraries</summary>
+    <ol>
+      <li>
+        <a href="https://getbootstrap.com/" target="blank">Bootstrap</a> - Bootstrap is an open source toolkit for
+        developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables
+        and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+      </li>
+      <li>
+        <a href="https://materializecss.com/" target="blank">Materialize</a> - Materialize is a modern responsive CSS
+        framework based on Material Design by Google.
+      </li>
+      <li>
+        <a href="https://bulma.io/" target="blank">Bulma</a> - Bulma is a free, open source CSS framework based on
+        Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.
+      </li>
+      <li>
+        <a href="https://getuikit.com/" target="blank">UIkit</a> - A lightweight and modular front-end framework for
+        developing fast and powerful web interfaces.
+      </li>
+      <li>
+        <a href="https://purecss.io/" target="blank">Pure.css</a> - A set of small, responsive CSS modules that you can
+        use in every web project.
+      </li>
+      <li>
+        <a href="https://fontawesome.com/" target="blank">Font Awesome</a> - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
+      </li>
+    </ol>
+  </details>
+<hr>
+  
 <details open>
     <summary>Sites - Algorithm Platforms</summary>
     <ol>
