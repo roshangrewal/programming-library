@@ -315,4 +315,16 @@
   </ol>
 </details>
 <hr>
+<hr>
+<details open>
+  <summary>Dummy Text Generators</summary>
+  <ol>
+    <li><a href="https://www.blindtextgenerator.com/lorem-ipsum" target="blank">BlindText Generator</a> -This is one of the better text generators with 10 different languages (or language styles) to generate. They also include the CSS parameters in case you are interested in styling everything correctly
+</li>
+   <li><a href="https://generator.lorem-ipsum.info/" target="blank">lorem-ipsum</a> -This is one of the better text generators with 10 different languages (or language styles) to generate. They also include the CSS parameters in case you are interested in styling everything correctly
+</li>
+  </ol>
+</details>
+<hr>
+
 
