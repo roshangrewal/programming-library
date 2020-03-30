@@ -66,7 +66,38 @@
     </ol>
   </details>
 <hr>
+
+<details open>
+    <summary>Sites - Code Playgrounds</summary>
+    <ol>
+      <li>
+        <a href="https://jsfiddle.net/" target="blank">JSFiddle</a> - Test your JavaScript, CSS, HTML or CoffeeScript
+        online with JSFiddle code editor.
+      </li>
+      <li>
+        <a href="https://codepen.io/" target="blank">Codepen</a> - CodePen is an online community for testing and
+        showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and
+        open-source learning environment, where developers can create code snippets, called "pens," and test them.
+      </li>
+      <li>
+        <a href="https://stackblitz.com/" target="blank">StackBlitz</a> - Code the Future.
+        In Your Browser.
+        Create, edit & deploy fullstack apps — in just one click.
+      </li>
+      <li>
+        <a href="https://repl.it/" target="blank">Repl.it</a> - Powerful and simple online compiler, IDE, interpreter,
+        and REPL. Code, compile, and run code in 50+ programming languages.
+      </li>
+      <li>
+        <a href="https://codesandbox.io/" target="blank">CodeSandbox.io</a> - Founded in 2017 by Ives van Hoorne and Bas
+        Buursma, our mission is to make web development faster. By removing complexity we enable web developers to be
+        more productive. By simplifying collaboration we make it easier for teams to work on code together.
+      </li>
+    </ol>
+  </details>
   
+<hr>
+
 <details open>
     <summary>Sites - Algorithm Platforms</summary>
     <ol>
@@ -314,7 +345,7 @@
     </li>
   </ol>
 </details>
-<hr>
+
 <hr>
 <details open>
   <summary>Dummy Text Generators</summary>
