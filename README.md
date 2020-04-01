@@ -358,4 +358,16 @@
 </details>
 <hr>
 
+<details open>
+  <summary>Small Project - Developed in Few Hours</summary>
+  <ol>
+    <li><a href="https://github.com/roshangrewal/JavaScript/tree/master/tic-tac-toe" target="blank">AI Based Tic-Tac-Toe Game</a> -This is one of the project which I have made using Vanila JavaScript. Implemented MiniMax Algorithm from which there are only two possibilities either bot will win or game will tie. Which is best example of implementing AI using maximum possible combination. Bot is enough intelligent to take best move.  
+    </li>
+    <li> <a href="https://github.com/roshangrewal/JavaScript/blob/master/sudoku-using-recursive-call.js" target="blank">Sudoku Puzzle</a> -Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid (also called "boxes") contains the digits from 1 to 9.
+Generally, a puzzle provides a partial solution so that some squares already have numbers. To solve the puzzle, we need to fill in the unsolved squares.
+    </li>
+  </ol>
+</details>
+<hr>
+
 
