@@ -162,6 +162,7 @@
   </ol>
 </details>
 <hr>
+
 <details open>
   <summary>Text Editors</summary>
   <ol>
@@ -191,6 +192,7 @@
   </ol>
 </details>
 <hr>
+
 <details open>
   <summary>VSCode Extensions</summary>
   <ol>
@@ -269,6 +271,7 @@
   </ol>
 </details>
 <hr>
+
 <details open>
     <summary>Community - Organization & Inclusion</summary>
     <ol>
@@ -337,6 +340,7 @@
   </ol>
 </details>
 <hr>
+
 <details open>
   <summary>Repos</summary>
   <ol>
