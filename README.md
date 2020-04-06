@@ -33,7 +33,8 @@
         learners today.
       </li>
       <li>
-        <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy            to find the best courses on almost any subject, wherever they exist on the web.
+        <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy
+        to find the best courses on almost any subject, wherever they exist on the web.
       </li>
       <li>
         <a href="https://teamtreehouse.com/" target="blank">Treehouse</a> - Our mission is to diversify the tech
@@ -69,7 +70,8 @@
         use in every web project.
       </li>
       <li>
-        <a href="https://fontawesome.com/" target="blank">Font Awesome</a> - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
+        <a href="https://fontawesome.com/" target="blank">Font Awesome</a> - Get vector icons and social logos on your website with Font 
+        Awesome, the web's most popular icon set and toolkit.
       </li>
     </ol>
   </details>
@@ -79,7 +81,8 @@
     <summary>Sites - Code Playgrounds</summary>
     <ol>
       <li>
-        <a href="https://hackr.io/" target="blank">hackr.io</a> - Codeply is a HTML, CSS, JavaScript editor playground for designers &            developers to compare, prototype and test frontend frameworks.
+        <a href="https://www.codeply.com/" target="blank">CodePly</a> - Codeply is a HTML, CSS, JavaScript editor playground designers
+        & developers to compare, prototype and test frontend frameworks.
       </li>
       <li>
         <a href="https://jsfiddle.net/" target="blank">JSFiddle</a> - Test your JavaScript, CSS, HTML or CoffeeScript
