@@ -32,6 +32,14 @@
         <a href="https://www.sololearn.com/" target="blank">SoloLearn</a> - Join the largest community of mobile code
         learners today.
       </li>
+      <li>
+        <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy            to find the best courses on almost any subject, wherever they exist on the web.
+      </li>
+      <li>
+        <a href="https://teamtreehouse.com/" target="blank">Treehouse</a> - Our mission is to diversify the tech
+        industry through accessible education and apprenticeship, unlocking the door to opportunity and empowering
+        people to achieve their dreams.
+      </li>
     </ol>
   </details>
   <hr>
@@ -70,6 +78,9 @@
 <details open>
     <summary>Sites - Code Playgrounds</summary>
     <ol>
+      <li>
+        <a href="https://hackr.io/" target="blank">hackr.io</a> - Codeply is a HTML, CSS, JavaScript editor playground for designers &            developers to compare, prototype and test frontend frameworks.
+      </li>
       <li>
         <a href="https://jsfiddle.net/" target="blank">JSFiddle</a> - Test your JavaScript, CSS, HTML or CoffeeScript
         online with JSFiddle code editor.
