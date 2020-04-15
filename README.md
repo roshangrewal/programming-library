@@ -383,6 +383,8 @@
     </li>
     <li> <a href="https://github.com/roshangrewal/JavaScript/blob/master/sudoku-using-recursive-call.js" target="blank">Sudoku Puzzle</a> -Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid (also called "boxes") contains the digits from 1 to 9.
 Generally, a puzzle provides a partial solution so that some squares already have numbers. To solve the puzzle, we need to fill in the unsolved squares.
+    </li> 
+    <li> <a href="https://github.com/roshangrewal/JavaScript/tree/master/black-jack" target="blank">BlackJack Game</a> Blackjack, also known as twenty-one, is a comparing card game between usually several players and a dealer, where each player in turn competes against the dealer, but players do not play against each other. It is played with one or more decks of 52 cards, and is the most widely played casino banking game in the world.
     </li>
   </ol>
 </details>
