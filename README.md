@@ -138,6 +138,29 @@
         They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten
         others, and commenting with constructive feedback. The leaders among them moderate the content and community.
       </li>
+    <li>
+        <a href="https://edabit.com/">Edabit</a> - We're like Duolingo for learning to code. When learning to code, most
+        people get stuck on the "bridge" between memorizing syntax and understanding the logic that makes it all work.
+      </li>
+      <li>
+        <a href="https://www.pramp.com/" target="blank">Pramp</a> - Join thousands of professionals practicing live mock
+        interviews & interview questions online, with peers, for free. We help you prep & land your dream tech job.
+      </li>
+      <li>
+        <a href="https://www.codility.com/" target="blank">Codility</a> - Codility is a software platform that helps
+        tech recruiters and hiring managers assess their candidates' skills by testing their code online.
+      </li>
+      <li>
+        <a href="https://www.codeabbey.com/" target="blank">CodeAbbey</a> - CodeAbbey hosts a series of simple to
+        complex
+        programming problems that allow the user to practice their ability to solve problems.
+      </li>
+      <li>
+        <a href="https://adventofcode.com/" target="blank">Advent of Code</a> - Advent of Code is an Advent calendar of
+        small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming
+        language you like. People use them as a speed contest, interview prep, company training, university coursework,
+        practice problems, or to challenge each other.
+      </li>
       <li>
         <a href="https://exercism.io/" target="blank">Exercism</a> - Level up your programming skills with 3,173
         exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism
@@ -202,6 +225,9 @@
     <li>
       <a href="https://css-tricks.com/" target="blank">CSS-Tricks</a> - Daily articles about CSS, HTML, JavaScript, and
       all things related to web design and development.
+    </li>
+    <li>
+      <a href="http://roshangrewal.com/most-useful-vs-code-extensions-which-makes-developer-life-easier/" target="blank">Most Useful VS Code Extension’s Which Makes Developer Life Easier</a> - DTop 19 Most Used Visual Studio Code Extensions. I’ll be updating this list whenever I find something good.There is curated list of resources at the end of this article. So read till the last line.
     </li>
   </ol>
 </details>
