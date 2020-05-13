@@ -189,6 +189,38 @@
   </details>
 <hr>
 <details open>
+    <summary>Sites - Documentation</summary>
+    <ol>
+      <li>
+        <a href="https://www.w3schools.com/" target="blank">W3Schools</a> - W3Schools is optimized for learning,
+        testing, and training. Examples might be simplified to improve reading and basic understanding.
+      </li>
+      <li>
+        <a href="https://developer.mozilla.org/en-US/" target="blank">Mozilla</a> - MDN's mission is simple: to provide
+        developers with the information they need to easily build projects on the open Web. If it's an open technology
+        exposed to the Web, we want to document it.
+      </li>
+      <li>
+        <a href="https://stackoverflow.com/" target="blank">Stack Overflow</a> - Founded in 2008, Stack Overflow is the
+        largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their
+        careers. More than 50 million unique visitors come to Stack Overflow each month to help solve coding problems,
+        develop new skills, and find job opportunities.
+      </li>
+      <li>
+        <a href="https://devdocs.io/">DevDocs</a> - Fast, offline, and free documentation browser for developers. Search
+        100+ docs in one web app.
+      </li>
+      <li>
+        <a href="https://www.30secondsofcode.org/">30 Seconds of Code</a> - Short code snippets for all your development
+        needs.
+      </li>
+      <li>
+        <a href="https://12factor.net/">The Twelve-Factor App</a> - In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.
+      </li>
+    </ol>
+  </details>
+  <hr>
+<details open>
   <summary>Courses</summary>
   <ol>
     <li>
